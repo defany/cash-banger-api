@@ -1,5 +1,7 @@
 ### Библиотека для работы с API Cash Banger. 
 
+Примеры работы можно найти в папке examples.
+
 Ниже указана информации об API.
 
 # Cash Banger API - RU Doc
